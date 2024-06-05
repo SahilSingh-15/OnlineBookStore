@@ -1,0 +1,100 @@
+1,To Kill a Mockingbird,Harper Lee,10.99,50
+2,1984,George Orwell,8.99,30
+3,Pride and Prejudice,Jane Austen,7.99,40
+4,The Great Gatsby,F. Scott Fitzgerald,9.99,20
+5,Harry Potter and the Sorcerer's Stone,J.K. Rowling,12.99,60
+6,The Catcher in the Rye,J.D. Salinger,11.99,45
+7,The Hobbit,J.R.R. Tolkien,10.49,55
+8,The Lord of the Rings,J.R.R. Tolkien,14.99,25
+9,Moby-Dick,Herman Melville,11.49,35
+10,Jane Eyre,Charlotte Bronte,9.49,40
+11,Animal Farm,George Orwell,8.49,30
+12,The Hunger Games,Suzanne Collins,10.99,50
+13,The Chronicles of Narnia,C.S. Lewis,11.99,20
+14,Brave New World,Aldous Huxley,9.99,45
+15,Gone with the Wind,Margaret Mitchell,12.49,15
+16,The Da Vinci Code,Dan Brown,10.99,60
+17,Wuthering Heights,Emily Bronte,9.99,25
+18,The Road,Cormac McCarthy,11.99,40
+19,The Picture of Dorian Gray,Oscar Wilde,8.99,30
+20,Frankenstein,Mary Shelley,9.49,35
+21,A Tale of Two Cities,Charles Dickens,10.49,20
+22,The Alchemist,Paulo Coelho,9.99,50
+23,The Kite Runner,Khaled Hosseini,11.49,30
+24,The Count of Monte Cristo,Alexandre Dumas,12.49,15
+25,The Odyssey,Homer,11.99,25
+26,The Scarlet Letter,Nathaniel Hawthorne,9.99,40
+27,The Bell Jar,Sylvia Plath,10.99,35
+28,Les Miserables,Victor Hugo,13.49,10
+29,The Shining,Stephen King,10.49,55
+30,Lord of the Flies,William Golding,9.99,20
+31,The Handmaid's Tale,Margaret Atwood,11.49,30
+32,Crime and Punishment,Fyodor Dostoevsky,12.99,15
+33,The Girl with the Dragon Tattoo,Stieg Larsson,10.99,40
+34,Anna Karenina,Leo Tolstoy,12.49,25
+35,The Road Less Traveled,M. Scott Peck,11.99,20
+36,The Secret Garden,Frances Hodgson Burnett,9.49,45
+37,The Adventures of Sherlock Holmes,Arthur Conan Doyle,10.99,30
+38,The Divine Comedy,Dante Alighieri,12.99,15
+39,The Grapes of Wrath,John Steinbeck,11.49,35
+40,The Stand,Stephen King,10.99,50
+41,A Game of Thrones,George R.R. Martin,13.49,10
+42,The Help,Kathryn Stockett,11.49,30
+43,The Joy Luck Club,Amy Tan,10.49,25
+44,One Hundred Years of Solitude,Gabriel Garcia Marquez,12.99,20
+45,A Clockwork Orange,Anthony Burgess,9.99,40
+46,Dracula,Bram Stoker,10.99,25
+47,War and Peace,Leo Tolstoy,14.99,15
+48,The Stranger,Albert Camus,10.49,30
+49,Fahrenheit 451,Ray Bradbury,9.99,40
+50,The Color Purple,Alice Walker,10.99,25
+51,Slaughterhouse-Five,Kurt Vonnegut,11.99,20
+52,In Cold Blood,Truman Capote,12.99,15
+53,The Sun Also Rises,Ernest Hemingway,10.49,30
+54,A Farewell to Arms,Ernest Hemingway,9.99,35
+55,Maus,Art Spiegelman,11.49,30
+56,The Name of the Rose,Umberto Eco,13.49,10
+57,The Brothers Karamazov,Fyodor Dostoevsky,12.99,15
+58,Catch-22,Joseph Heller,10.99,40
+59,A Wrinkle in Time,Madeleine L'Engle,11.49,25
+60,The Secret Life of Bees,Sue Monk Kidd,9.99,35
+61,The Goldfinch,Donna Tartt,12.99,20
+62,The Girl on the Train,Paula Hawkins,10.99,25
+63,Life of Pi,Yann Martel,11.99,20
+64,The Martian,Andy Weir,12.49,15
+65,The Catcher in the Rye,J.D. Salinger,11.99,25
+66,The Hitchhiker's Guide to the Galaxy,Douglas Adams,9.99,30
+67,The Help,Kathryn Stockett,11.49,30
+68,The Book Thief,Markus Zusak,10.99,20
+69,The Chronicles of Narnia,C.S. Lewis,11.99,20
+70,Little Women,Louisa May Alcott,10.49,25
+71,Of Mice and Men,John Steinbeck,9.99,35
+72,The Secret Garden,Frances Hodgson Burnett,9.49,40
+73,The Giver,Lois Lowry,11.99,20
+74,The Diary of a Young Girl,Anne Frank,10.99,25
+75,The Perks of Being a Wallflower,Stephen Chbosky,12.49,15
+76,The Fault in Our Stars,John Green,11.49,30
+77,The Curious Incident of the Dog in the Night-Time,Mark Haddon,10.99,25
+78,The Hunger Games,Suzanne Collins,10.99,35
+79,Lord of the Flies,William Golding,9.99,20
+80,Brave New World,Aldous Huxley,9.99,30
+81,Animal Farm,George Orwell,8.49,40
+82,Fifty Shades of Grey,E.L. James,12.99,10
+83,The Adventures of Tom Sawyer,Mark Twain,9.99,25
+84,The Bell Jar,Sylvia Plath,10.99,25
+85,The Name of the Wind,Patrick Rothfuss,11.99,20
+86,The Picture of Dorian Gray,Oscar Wilde,8.99,30
+87,Peter Pan,J.M. Barrie,9.49,35
+88,Little House on the Prairie,Laura Ingalls Wilder,10.99,25
+89,Charlotte's Web,E.B. White,8.49,35
+90,The Chronicles of Narnia,C.S. Lewis,11.99,20
+91,The Road,Cormac McCarthy,11.99,30
+92,The Stranger,Albert Camus,10.49,25
+93,The Adventures of Huckleberry Finn,Mark Twain,9.99,35
+94,The Help,Kathryn Stockett,11.49,30
+95,The Old Man and the Sea,Ernest Hemingway,10.49,25
+96,The Stand,Stephen King,10.99,35
+97,The Girl with the Dragon Tattoo,Stieg Larsson,10.99,40
+98,The Outsiders,S.E. Hinton,9.99,35
+99,The Lord of the Rings,J.R.R. Tolkien,14.99,15
+100,The Book Thief,Markus Zusak,10.99,25
